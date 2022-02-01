@@ -1,4 +1,4 @@
-![lexerpars](https://user-images.githubusercontent.com/75953873/111233290-7c961d00-85cb-11eb-982b-1cdfb0396225.png)
+![lexerpars](https://avatars.githubusercontent.com/u/22756336?v=4)
 
 </br>
 
@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexerpars&theme=chartreuse-dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3li4nt&theme=chartreuse-dark&layout=compact)](https://github.com/R3LI4NT)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexerpars&theme=chartreuse-dark&layout=compact)](https://github.com/R3LI4NT)
 
 <!--
 **lexerpars/lexerpars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
